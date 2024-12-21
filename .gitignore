@@ -9,6 +9,7 @@ __pycache__/
 # Distribution / packaging
 .Python
 build/
+telegram/
 develop-eggs/
 dist/
 downloads/
@@ -130,7 +131,9 @@ celerybeat.pid
 # Environments
 .env
 .venv
+.telegram
 env/
+telegram/
 venv/
 ENV/
 env.bak/
